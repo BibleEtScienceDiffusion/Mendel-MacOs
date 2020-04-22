@@ -1,4 +1,6 @@
+---------------------------------------------
 INSTALLATION AND SIMPLE USAGE FOR MENDEL 2.5:
+---------------------------------------------
 
 NOTE: This version works on Mac OS X 10.10 systems using Google Chrome browser.  
 Other versions of OS and browser may give unstable results.  If Mendel's Accountant
@@ -23,8 +25,8 @@ more information.
 7. Click the "Jobs" button to manage (e.g. delete) jobs
 
 ---------------------------------------------------------------------------
-
 INSTALLATION and USAGE INSTRUCTIONS for iMENDEL2:
+---------------------------------------------------------------------------
 
 NOTE: This version will only work on Mac OS X systems.
 If you have a Windows or Linux machines, please select
